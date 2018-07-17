@@ -1,0 +1,18 @@
+class Constants:
+    D1 = "daughter1"
+    D2 = "daughter2"
+    D3 = "daughter3"
+    D4 = "daughter4"
+    D5 = "daughter5"
+    max = "max"
+    min = "min"
+    time = "time"
+    in_file = "in_file"
+    in_dir = "in_dir"
+    out_file = "out_file"
+    out_dir = "out_dir"
+    settings_file = "./settings.json"
+    out_temp = "./temp.txt"
+    out_ext = ".txt"
+    regex = ', '
+    encoding = "utf-8"

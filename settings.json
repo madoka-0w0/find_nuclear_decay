@@ -1,0 +1,29 @@
+{
+  "daughter1": {
+    "max": "11",
+    "min": "9.5",
+    "time": "0"
+  },
+  "daughter2": {
+    "max": "11",
+    "min": "9",
+    "time": "12"
+  },
+  "daughter3": {
+    "max": "11",
+    "min": "8.5",
+    "time": "42"
+  },
+  "daughter4": {
+    "max": "11",
+    "min": "8.5",
+    "time": "102"
+  },
+  "daughter5": {
+    "max": "10",
+    "min": "8",
+    "time": "200"
+  },
+  "in_dir": "~/Desktop/dec",
+  "out_dir": "~/Desktop/dec/out"
+}
